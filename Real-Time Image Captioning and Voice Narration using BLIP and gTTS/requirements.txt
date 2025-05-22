@@ -1,0 +1,6 @@
+﻿torch>=1.12.0
+transformers>=4.30.0
+opencv-python
+Pillow
+gTTS
+playsound
